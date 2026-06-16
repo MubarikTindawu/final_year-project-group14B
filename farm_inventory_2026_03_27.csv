@@ -1,0 +1,12 @@
+uid,unit,quantity,itemName,category,minThreshold,owner_id,doc_id
+DKsRyhDfPyZGrRTJO9p6F8ngTOH2,Bags,3.0,Rice,Crops,5.0,ROOT_LEVEL,3BQda5CkNhQXVfRSOnCY
+DKsRyhDfPyZGrRTJO9p6F8ngTOH2,Bags,100.0,NPK Fertilizer,Chemicals,5.0,ROOT_LEVEL,HAeeBOMawZWXYFdAr29m
+,Bags,10005.0,Maize,Crops,5.0,20Ym6jNMB0UZqX4RHtRugYwbrL63,THi8vN9EX47pxI5FzRdy
+,Bags,7.0,NPK Fertilizer,Chemicals,5.0,20Ym6jNMB0UZqX4RHtRugYwbrL63,oYRwYAXpSBg9udyXTFHk
+,Bags,50.0,NPK Fertilizer,Chemicals,5.0,DKsRyhDfPyZGrRTJO9p6F8ngTOH2,4GGCIjhxwxxsSirju9zx
+,0,201.0,fertilizer,General,5.0,DKsRyhDfPyZGrRTJO9p6F8ngTOH2,Ea5gSxl7QpatfWTB4xQN
+,Bags,10005.0,Poultry Feed,Feed,5.0,DKsRyhDfPyZGrRTJO9p6F8ngTOH2,qpsWGgV0QgcetoBUrLO7
+,Bags,11.0,Rice,Crops,5.0,bMDLobzd7UO17s5u8aoD0ntGGON2,Qyl50f3nqKfjnVUdwAok
+,Bags,9.0,NPK Fertilizer,Chemicals,5.0,bMDLobzd7UO17s5u8aoD0ntGGON2,ZseRVwSYkzs60863wJ57
+,Bags,7.0,Pesticide,Chemicals,5.0,bMDLobzd7UO17s5u8aoD0ntGGON2,h2bXui6HmdSRfqaTT39S
+,Bags,10.0,Seedlings,Seeds,5.0,bMDLobzd7UO17s5u8aoD0ntGGON2,k65cEJUwExE3dtABVPvk
